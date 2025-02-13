@@ -1,4 +1,4 @@
-<h1>Hello, I'm Alex, an <a href="www.linkedin.com/in/alex-aigbe-738809228">IT Professional</a></h1>
+<h1>Hello, I'm Alex, an <a href="https://www.linkedin.com/in/alex-aigbe-738809228/#:~:text=www.linkedin.com/in/alex%2Daigbe%2D738809228">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
